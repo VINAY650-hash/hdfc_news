@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deployed with tomcat using plugin deployment thanks  </h2>
+<h2>Deployed with tomcat using web hook </h2>
 </body>
 </html>
